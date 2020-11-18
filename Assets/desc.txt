@@ -1,0 +1,1 @@
+This project shows the data of music being sold physically and digitally. You’re first presented with a bar graph with symbols that reference the way the music is being sold. On the bottom of the page, there’s a prompt telling the user to hover over it for more information about the graph.

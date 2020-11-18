@@ -1,0 +1,33 @@
+h1{
+    color:darkorange;
+    text-align: right;
+}
+
+p{
+    color:crimson;
+    text-align: right;
+}
+
+body{
+    background-image: linear-gradient(lightgreen, aqua);
+    float: right;
+}
+
+img{
+    display: block;
+    
+}
+
+header{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+}
+
+footer{
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 20px;
+
+}
+
